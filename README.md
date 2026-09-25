@@ -1,4 +1,4 @@
-# 🚀 Agentic AI Roadmap     
+# 🚀 Agentic AI Roadmap    
 ### My 12-Month Journey to Become a Job-Ready Agentic AI Engineer 
 
 <p align="center">
