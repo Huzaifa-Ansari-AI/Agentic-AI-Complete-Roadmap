@@ -1,5 +1,5 @@
 # 🚀 Agentic AI Roadmap
-### My 12-Month Journey to Become a Job-Ready Agentic AI Engineer
+### My 12-Month Journey to Become a Job-Ready Agentic AI Engineer 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-blue?logo=python" />
